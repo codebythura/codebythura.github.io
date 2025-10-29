@@ -66602,7 +66602,7 @@ $2(a,b){return A.D1(50,0.2)},
 $S:434}
 A.a9o.prototype={
 $2(a,b){var s=null,r=A.eU(new A.Ku(this.a.c[b],18,14,s),!1,a.T(t.P5).f),q=$.lB(),p=$.jQ()
-p=A.f1(r,new A.an(q.a+B.h.ai(p.a*(b+1))),p)
+p=A.f1(r,new A.an(q.a+B.h.ai(p.a*b)),p)
 return p.ox(new A.EQ(!0,s,s,s,new A.r(0,-1),B.j))},
 $S:129}
 A.Ku.prototype={
